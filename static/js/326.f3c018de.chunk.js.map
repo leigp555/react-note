@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/326.f3c018de.chunk.js","mappings":"+HAIA,UAF0B,kBAAM,mCAAN,C","sources":["pages/History.tsx"],"sourcesContent":["import React from 'react';\n\nconst History: React.FC = () => <h1>history</h1>;\n\nexport default History;\n"],"names":[],"sourceRoot":""}
